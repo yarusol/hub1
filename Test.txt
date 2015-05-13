@@ -1,0 +1,4 @@
+the first	string of the text
+the second	string of the text
+the third	string of the text
+the fourth	string of the text
